@@ -1,4 +1,4 @@
-![MyCar-Prototipo-GUI-INF-UFG](https://cdn.rawgit.com/gustavosotnas/MyCar-Prototipo-GUI-INF-UFG/master/Desenhos do protótipo/MyCar.svg)
+![MyCar-Prototipo-GUI-INF-UFG](https://rawgit.com/gustavosotnas/MyCar-Prototipo-GUI-INF-UFG/master/Desenhos do protótipo/MyCar.svg)
 ==============================================
 
 Protótipo de interface gráfica para o aplicativo para Android fictício **MyCar**, apresentado como trabalho de conclusão da disciplina de *Engenharia de Requisitos* no 6º período do semestre 2015/2 do curso de Ciências da Computação da Universidade Federal de Goiás.
