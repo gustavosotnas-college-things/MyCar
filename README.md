@@ -17,6 +17,8 @@ Descrição
 - **Troca do filtro de ar do motor** a cada 20000 km
 - **Troca do filtro da cabine do ar condicionado** a cada 6 meses
 
+Para visualizar o protótipo do **MyCar** online, acesse: http://gustavosotnas.github.io/MyCar-Prototipo-GUI-INF-UFG
+
 ### Ferramenta
 
 * [Justinmind Prototyper](http://www.justinmind.com)
