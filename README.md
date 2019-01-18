@@ -1,10 +1,10 @@
-![MyCar-Prototipo-GUI-INF-UFG](https://rawgit.com/gustavosotnas/MyCar-Prototipo-GUI-INF-UFG/master/Desenhos%20do%20protótipo/MyCar.svg)
+![MyCar-Prototipo-GUI-INF-UFG](https://rawcdn.githack.com/gustavosotnas/MyCar-Prototipo-GUI-INF-UFG/master/Desenhos%20do%20protótipo/MyCar.svg)
 ==============================================
 
 Protótipo de interface gráfica para o aplicativo para Android fictício **MyCar**, apresentado como trabalho de conclusão da disciplina de *Engenharia de Requisitos* no 6º período do semestre 2015/2 do curso de Ciências da Computação da Universidade Federal de Goiás.
 
 <!-- Usando botão gerado dinamicamente pelo dabuttonfactory.com -->
-[![Acessar Live DEMO](http://dabuttonfactory.com/button.png?t=ACESSAR&f=Roboto-Bold&ts=14&tc=fff&hp=16&vp=8&c=2&bgt=unicolored&bgc=009688&shs=2&shc=eee&sho=s)](http://gustavosotnas.github.io/MyCar)
+[![Acessar Live DEMO](https://img.shields.io/badge/%20Acessar-Live%20DEMO-009688.svg?style=for-the-badge&colorA=263238)](http://gustavosotnas.github.io/MyCar)
 
 #### Facilitador
 
